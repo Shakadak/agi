@@ -4,8 +4,8 @@ Let's return to intelligence. What do we do in science ? (I'm making stuff up he
 
 The annoying thing about thinking while communicating, it's that we can come to an understanding and because of that understanding realize that what the thread we were knitting was of the wrong color. No color is bad tough. If it were oral, and the audience was skilled, they can extract the transformation process through questioning. But here it's just writing. I just have to press backspace. Who am I kidding ? I go in visual mode, select the faulty part and press `d`. Akin to selecting with the mouse cursor and pressing backspace. I'm lazy though, so I'd rather avoid moving too much my arm. **SO MUCH NOISE.** Don't worry, you will get that sweet **TL;DR** at the end of the file if you skip a few years.
 
-Let's suppose things in a vacuum.
-Knowledge is static.
-Intelligence is dynamic.
-The larger the knowledge is, the more the intelligence can express itself.
-The larger the intelligence is, the more the knowledge can improve.
+Let's suppose things in a vacuum.  
+Knowledge is static.  
+Intelligence is dynamic.  
+The larger the knowledge is, the more the intelligence can express itself.  
+The larger the intelligence is, the more the knowledge can improve.  
