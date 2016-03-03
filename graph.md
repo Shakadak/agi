@@ -9,3 +9,7 @@ Knowledge is static.
 Intelligence is dynamic.  
 The larger the knowledge is, the more the intelligence can express itself.  
 The larger the intelligence is, the more the knowledge can improve.  
+
+Quite the explosive formula, eh ? Well that's science for you. Jk.
+
+If knowledge is the graph. Intelligence would be the process that transform that graph. It makes new nodes from scratch. Lunch calling. Sorry, brb in a few day when inspiration settle.
