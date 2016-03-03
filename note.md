@@ -1,14 +1,14 @@
 What is needed for intelligence:
 
 Memory:  
-    Storing and accessing knowledge  
+    * Storing and accessing knowledge  
 Appreciation:  
-    Something akin to emotion (good/neutral/bad feeling)  
-    None should trigger avoidance  
+    * Something akin to emotion (good/neutral/bad feeling)  
+    * None should trigger avoidance  
 Abstraction:  
-    Extracting and recognizing pattern  
+    * Extracting and recognizing pattern  
 Composition:  
-    Utilizing pattern together  
+    * Utilizing pattern together  
 Intuition:  
-    As in trained reflexes  
-    Related to abstraction  
+    * As in trained reflexes  
+    * Related to abstraction  
