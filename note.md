@@ -1,4 +1,4 @@
-What is needed for intelligence:
+What may be needed for intelligence:
 
 Memory:
 
