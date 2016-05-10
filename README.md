@@ -1,2 +1,2 @@
 # agi
-Storing some thoughts regarding artificial general intelligence.
+Storing some thoughts regarding ~~artificial general~~ intelligence.
